@@ -1,0 +1,211 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+@media only screen and (max-width: 500px) {
+  .logform  {  width: 80% !important;  
+           margin-left: 10% !important;
+            }
+  .naviii{ display: inline !important;}
+  .directt{display: none !important;}
+}
+
+.bodyy{
+  background-color: #1a2d4c;
+  color: white;
+}
+.login{
+  color: #2a4877;
+}
+.logform{
+  background-color: white;
+  margin-top: 7%;
+  width: 50%;
+  margin-left: 30%;
+  border-radius: 10px;
+}
+.labe{
+  color: #2a4877;
+  font-size: 20px;
+  text-align: left;
+}
+.error{
+  color: red;
+  font-size: 15px;
+}
+#dropdown-basic{
+  background-color: transparent;
+  border-color: #1a2d4c;
+}
+.drpdown{
+  background-color: transparent;
+}
+.dropdown-item{
+  color: aliceblue !important;
+  min-width: 10px !important;
+}
+.dropdown-menu.show{
+  background-color: #2a4877 !important;
+  font-size: 20px;
+}
+.dropdown-menu{
+  padding: 0 15px 0 15px ;
+  min-width: 20px !important;
+}
+.dropdown-item:hover {
+  color: black !important;
+}
+.btn-block{
+background-color: #1a2d4c;
+color: white;
+}
+.bo{
+width: 70%;
+}
+.bo:hover{
+  background-color: #2a4877;
+}
+.direct{
+  text-align: right;
+  font-size: 15px;
+}
+.directt{
+  text-align: right;
+  font-size: 15px;
+}
+.row{
+  margin-right: 0 !important;
+}
+.con{
+  background-color: white;
+  color: black;
+  height: 850px;
+  overflow-y: scroll;
+}
+.par{
+  font-size: 22px;
+  color: gray !important;
+}
+.a:hover{
+  text-decoration: none !important;
+  color: white !important;
+}
+a{
+  text-decoration: none !important;
+  color: white !important;
+}
+.flip{
+  direction: rtl !important;
+  text-align: center;
+}
+.inp{
+  width: 100px !important;
+}
+.colo{
+  text-align: left;
+}
+.head{
+  background-color: #2a4877;
+  color: white;
+}
+.trans{
+  background-color: transparent;
+  border-color: transparent;
+  /* padding: 8px; */
+}
+.transs{
+  background-color: transparent;
+  border-color: transparent;
+  padding: 10px;
+}
+.modal-fullscreen .modal-content{
+color: #1a2d4c;
+}
+.modal-fullscreen .modal-header{
+  background-color: #2a4877;
+  color: white;
+}
+.cardy{
+  /* width: 40%; */
+  background-color: #1a2d4c;
+  color: white;
+  text-align: right;
+  font-size: 40px;
+  padding: 4px;
+}
+.cardy2{
+  background-color: #1a2d4c;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  padding: 4px;
+}
+.lin{
+  background-color: #1a2d4c;
+  color: white;
+  text-align: center;
+  font-size: 18px;
+  padding: 8px;
+  border-radius: 8px;
+}
+.lini{
+  background-color: #1a2d4c;
+  color: white;
+  text-align: center;
+  font-size: 18px;
+  padding: 6px;
+  border-radius: 8px;
+}
+.naviii{
+  display: none;
+  color: black !important;
+}
+/* a.nav-link{
+  color: black !important;
+  background-color: transparent;
+} */
+.navbar-toggler{
+  background-color: #1a2d4c !important;
+  color: white !important;
+  }
+  .navbar-collapse{
+    background-color: white !important;
+    color: white !important;
+  }
+  .bg-light{
+    background-color: #1a2d4c !important;
+  }
+  .navbar-toggler-icon{
+    color: white !important;
+  }
+.navbar-light .navbar-nav .nav-link.active{
+    background-color: transparent !important;
+    color: white !important;
+  }
+  .me-auto {
+    background-color: #1a2d4c !important;
+  }
+  .navbar-light .navbar-toggler{
+    border-color: white !important;
+  }
+  .navbar-light .navbar-toggler-icon{
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  }
+.test1{
+display: none;
+  }
+.test2{
+ display: table-row;
+}
+.page-link{
+ color: black !important;
+}
